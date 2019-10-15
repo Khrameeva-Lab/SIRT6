@@ -1,0 +1,12 @@
+	sampletype	sex	genotype	
+X133	133	female	KO	 
+X175	175	female	WT	 	 
+X151	151	female	KO	 
+X134	134	female	KO	
+X122	122	male	WT	 
+X140	140	female	WT	 
+X135	135	female	KO	 
+X124	124	female	WT	  
+X150	150	female	KO		 
+X181	181	female	WT	 
+
